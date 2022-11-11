@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\howto_solve_maze\bin\Debug\howto_solve_maze.exe
+C:\Users\user\Desktop\howto_solve_maze\bin\Debug\howto_solve_maze.pdb
+C:\Users\user\Desktop\howto_solve_maze\obj\Debug\howto_solve_maze.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\howto_solve_maze\obj\Debug\howto_solve_maze.Form1.resources
+C:\Users\user\Desktop\howto_solve_maze\obj\Debug\howto_solve_maze.Properties.Resources.resources
+C:\Users\user\Desktop\howto_solve_maze\obj\Debug\howto_solve_maze.csproj.GenerateResource.cache
+C:\Users\user\Desktop\howto_solve_maze\obj\Debug\howto_solve_maze.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\howto_solve_maze\obj\Debug\howto_solve_maze.exe
+C:\Users\user\Desktop\howto_solve_maze\obj\Debug\howto_solve_maze.pdb
